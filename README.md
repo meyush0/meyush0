@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me aayush0761@gmail.com
-- 
 
 <!---
 meyush0/meyush0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

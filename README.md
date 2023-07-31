@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meyush0
 - 👀 I’m interested in data science...
-- 🌱 I’m currently learning R,SQL
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on R,python
 - 📫 How to reach me aayush0761@gmail.com
 

@@ -11,6 +11,5 @@ print(bio)
 
 
 <!---
-meyush0/meyush0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+meyush0/meyush0 is a ✨ special ✨ repository because its `README.md` 
 --->

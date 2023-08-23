@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @meyush0
-- 👀 I’m interested in data science...
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on R,python
-- 📫 How to reach me aayush0761@gmail.com
+
+
+```python
+name = "Ayush Singh"
+passion = "passionate about data science"
+exploration = "currently exploring Deep learning"
+
+bio = f"Hello! I'm {name}, {passion} and {exploration}. 🚀📊📈 #DataScience #MachineLearning"
+print(bio)
+
+
 
 <!---
 meyush0/meyush0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@ name = "Ayush Singh"
 passion = "passionate about data science"
 exploration = "currently exploring Deep learning"
 
-bio = f"Hello! I'm {name}, {passion} and {exploration}. 🚀📊📈 #DataScience #MachineLearning"
+bio = f"Hello! I'm {Ayush}, {Data Science} and {exploration}. 🚀📊📈 #DataScience #MachineLearning"
 print(bio)
 
 

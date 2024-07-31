@@ -3,7 +3,7 @@
 ```python
 name = "Ayush Singh"
 passion = "passionate about data science"
-exploration = "currently exploring Deep learning"
+exploration = "currently exploring Gen AI"
 
 bio = f"Hello! I'm {Ayush}, {Data Science} and {exploration}. 🚀📊📈 #DataScience #MachineLearning"
 print(bio)

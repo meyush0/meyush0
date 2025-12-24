@@ -4,6 +4,8 @@ Turning messy data into clear insights and reliable models.
 
 - 📊 Time-series forecasting & business analytics  
 - 🧠 Machine learning with real production data  
-- 🏥 Experience across healthcare & insurance use cases  
+- 🏥 Experience across healthcare & insurance use cases
+- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 **Tech:** Python • SQL • Pandas •  • Power BI • MLops • Gen AI

@@ -1,15 +1,9 @@
+## Ayush | Data Scientist 👨‍💻
 
+Turning messy data into clear insights and reliable models.
 
-```python
-name = "Ayush Singh"
-passion = "passionate about data science"
-exploration = "currently exploring Gen AI"
+- 📊 Time-series forecasting & business analytics  
+- 🧠 Machine learning with real production data  
+- 🏥 Experience across healthcare & insurance use cases  
 
-bio = f"Hello! I'm {Ayush}, {Data Science} and {exploration}. 🚀📊📈 #DataScience #MachineLearning"
-print(bio)
-
-
-
-<!---
-meyush0/meyush0 is a ✨ special ✨ repository because its `README.md` 
---->
+**Tech:** Python • SQL • Pandas •  • Power BI • MLops • Gen AI
